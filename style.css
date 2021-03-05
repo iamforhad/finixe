@@ -542,7 +542,7 @@ margin-bottom: 50px;
    position: relative;
 }
 .member-image img{
-    height: 345px !important;
+    height: 360px !important;
     width: 300px !important
 }
 .team-member:hover .member-social-profile ul li{
